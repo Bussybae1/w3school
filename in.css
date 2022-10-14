@@ -1,0 +1,12 @@
+@import url(../Icons/fontawesome-free-6.2.0-web/css/all.css);
+.box{
+    height: 50px;
+    width: 1350px;
+    background-color: green;
+    display: inline-flex;
+    justify-content: space-around;
+    align-items: center;
+}
+i{
+    font-size: 250%;
+}
